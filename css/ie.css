@@ -1,0 +1,24 @@
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {  
+   .cart-items{
+		right:150px;
+	}
+
+	.product-detail .detail .form .quantity.styled-select{
+		width: 106px;
+	}
+
+	.datepicker-nav .prev, .datepicker-nav .next{
+		display:none;
+	}
+	.ui-datepicker-month {
+		margin-left: 0;
+		width: 91px;
+		color:#ccc;
+	}
+	.ui-datepicker-year {
+	    margin-left: 136px;
+	    width: 56px;
+	    color:#ccc;
+	}
+	
+}
